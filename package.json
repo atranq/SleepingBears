@@ -1,0 +1,10 @@
+{
+    "name": "sleepingbears",
+    "version": "1.0.0",
+    "description": "Static website with Node.js",
+    "main": "generateContent.js",
+    "scripts": {
+      "start": "node generateContent.js"
+    },
+    "dependencies": {}
+  }
