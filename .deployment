@@ -1,2 +1,2 @@
 [config]
-command = "node generateCotent.js"
+command = "node generateContent.js"
